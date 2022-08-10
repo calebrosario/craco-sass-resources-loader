@@ -2,9 +2,9 @@
   "name": "@little-core-labs/craco-sass-resources-loader",
   "version": "1.1.0",
   "description": "A craco plugin to use sass-resources-loader with create-react-app",
-  "repository": "github:tilap/craco-sass-resources-loader",
+  "repository": "github:little-core-labs/craco-sass-resources-loader",
   "main": "index.js",
-  "author": "Julien Tilap LA VINH",
+  "author": "Caleb Rosario",
   "license": "MIT",
   "scripts": {
     "release": "standard-version && git push --follow-tags && npm publish"
