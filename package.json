@@ -1,6 +1,6 @@
 {
   "name": "@little-core-labs/craco-sass-resources-loader",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A craco plugin to use sass-resources-loader with create-react-app",
   "repository": "github:little-core-labs/craco-sass-resources-loader",
   "main": "index.js",
